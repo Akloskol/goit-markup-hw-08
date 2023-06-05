@@ -308,7 +308,7 @@ img {
     margin-left: auto;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)),
-        url(../images/hero/hero_mob@1x.jpg);
+        url(../images/people-office\ 1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -320,7 +320,7 @@ img {
     .hero {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/hero/hero_mob@2x.jpg);
+            url(../images/people-office\ 1.jpg);
     }
 }
 
@@ -331,7 +331,7 @@ img {
 
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/hero/hero_tab@1x.jpg);
+            url(../images/people-office\ 1.jpg);
     }
 
     @media (min-device-pixel-ratio: 2),
@@ -340,7 +340,7 @@ img {
         .hero {
             background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                     rgba(46, 47, 66, 0.7)),
-                url(../images/hero/hero_tab@2x.jpg);
+                url(../images/people-office\ 1.jpg);
         }
     }
 }
@@ -354,7 +354,7 @@ img {
 
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/hero/hero_desk@1x.jpg);
+            url(../images/people-office\ 1.jpg);
     }
 
     @media (min-device-pixel-ratio: 2),
@@ -363,7 +363,7 @@ img {
         .hero {
             background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                     rgba(46, 47, 66, 0.7)),
-                url(../images/hero/hero_desk@2x.jpg);
+                url(../images/people-office\ 1.jpg);
         }
     }
 }
